@@ -4,9 +4,7 @@ and
 ## Automation
 Inside and Out
 
-[Florian Haas](mailto:florian@hastexo.com) & [Syed Armani](mailto:syed@hastexo.com)
-
-[`@xahteiwi`](https://twitter.com/xahteiwi) | [`@syedarmani`](https://twitter.com/syedarmani) | [`@hastexo`](https://twitter.com/hastexo)
+Florian Haas, [`florian@hastexo.com`](mailto:florian@hastexo.com)
 
 
 A few
