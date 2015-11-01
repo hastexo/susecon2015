@@ -7,7 +7,7 @@ users:
 - default
 - name: foobar
   gecos: "Fred Otto Oscar Bar"
-  groups: users,adm
+  groups: users,wheel
   lock-passwd: false
   passwd: '$6$WP9924IJiLSto8Ng$MSDwCvlT28jMOr9dwPUcJjQzcoB0BV0WCMMPB9xCj1ogbGlvgGOH.dHy5NnqYYqHVkvD5Wca/K4W.qUBbQei61' 
   shell: /bin/bash
