@@ -16,9 +16,9 @@ http://docs.openstack.org/hot-reference/
 
 
 <!-- .slide: data-background-image="images/by-sa.svg" data-background-size="contain" -->
-http://hastexo.github.io/susecon2015
+https://hastexo.github.io/susecon2015
 
-http://hastexo.github.io/susecon2015
+https://github.com/hastexo/susecon2015
 
 
 <!-- .slide: data-background-image="images/hastexo-logo.svg" data-background-size="contain" -->
