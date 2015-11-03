@@ -38,6 +38,9 @@ Note:
   (first part) and also via the Heat API (second part).
 
 
+`ssh demo@susecon<NN>.hastexo.com`
+
+
 If you're
 ### not able
 or
